@@ -5,7 +5,7 @@ This is an experimental integration Module for the APSystems ECU into FHEM.
 The work is based on https://github.com/ksheumaker/homeassistant-apsystems_ecur
 
 ## How to install
-Copy 70_APSystemsECU.pm into your FHEM modole folder and restart FHEM.
+Copy [70_APSystemsECU.pm](70_APSystemsECU.pm) into your FHEM module folder and restart FHEM.
 
 To create the device in FHEM run "define <name> APSystemsECU <host> <port>".
 
