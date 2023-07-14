@@ -31,7 +31,7 @@ FTUI Integration:
 ## Technical Details
 
 For the time beeing, the FHEM module does only provide LastSystemPower, CurrentDayEnergy and LifeTimeEnergy. It was tested with ECU-B.
-By default they are fetched every 60 from the ECU. The ECU itself updates them every 5 minutes.
+By default they are fetched every 60 seconds from the ECU. The ECU itself updates them every 5 minutes.
 
 For further development, I provided [test-ecu.pl](test-ecu.pl). It will display all the available readouts from ECU.
 
