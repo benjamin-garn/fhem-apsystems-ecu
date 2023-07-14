@@ -7,7 +7,7 @@ The work is based on https://github.com/ksheumaker/homeassistant-apsystems_ecur
 ## How to install
 Copy [70_APSystemsECU.pm](70_APSystemsECU.pm) into your FHEM module folder and restart FHEM.
 
-To create the device in FHEM run "define <name> APSystemsECU <host> <port>".
+To create the device in FHEM run "define \<name\> APSystemsECU \<host\>  \<port\>".
 
 ![screenshot-fhem-ecu](https://github.com/benjamin-garn/fhem-apsystems-ecu/assets/3677978/eaf37494-5ae6-4f51-b3e3-2f095acdc0c5)
 
